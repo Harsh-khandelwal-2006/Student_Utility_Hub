@@ -1,8 +1,3 @@
-"""
-Student Utility Hub  |  Developer: Harsh Khandelwal
-Run:  streamlit run Student_Utility_Hub.py
-Note: 'Bengaluru_House_Data_Cleaned.csv' file isi folder me honi chahiye (House Price module ke liye).
-"""
 from html import escape
 from pathlib import Path
 
